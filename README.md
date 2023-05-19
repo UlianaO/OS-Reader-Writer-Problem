@@ -19,7 +19,7 @@ Scenario starts rrwwrrwrwwrrrr<br/>
 <br/>
 Created reader <br/>
 Created writer <br/>
-Reader`s in... reading... <br/>
+Readers in... reading... <br/>
 Created reader <br/>
 Created writer <br/>
 Created reader <br/>
@@ -63,14 +63,14 @@ Finished writing... shared = 5<br/>
 
 Scenario starts rwrwrw <br/>
 Created reader<br/>
-Reader`s in... reading...<br/>
+Reade`s in... reading...<br/>
 Created writer<br/>
 Created writer<br/>
 Created reader<br/>
 Created writer<br/>
 Created reader<br/>
 Finished reading... shared = 0<br/>
-Writer`s in... writing...<br/>
+Writers in... writing...<br/>
 Finished writing... shared = 1<br/>
 Writer`s in... writing...<br/>
 Finished writing... shared = 2<br/>
