@@ -14,7 +14,8 @@ To work with the program:<br/>
 $ gcc     -o      readerwriter  weaderwriter.c  -lpthread <br/>
  ./readerwriter <br/>
 <br/>
-__________Scenario starts rrwwrrwrwwrrrr<br/>
+<br/>
+Scenario starts rrwwrrwrwwrrrr<br/>
 <br/>
 Created reader <br/>
 Created writer <br/>
@@ -60,7 +61,7 @@ Writer`s in... writing...<br/>
 Finished writing... shared = 5<br/>
 <br/>
 
-__________Scenario starts rwrwrw <br/>
+Scenario starts rwrwrw <br/>
 Created reader<br/>
 Reader`s in... reading...<br/>
 Created writer<br/>
