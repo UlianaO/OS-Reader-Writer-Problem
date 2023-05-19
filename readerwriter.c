@@ -1,5 +1,4 @@
 /* Starting code is taken from OS Slides done by Professor Wanwan Li, COP4600 USF*/
-/* Student: Uliana Ozerova, U17965448 */
 /* NEEDS A thread.h FILE PROVIDED BY THE PROFESSOR IN FILES FOLDER*/
 
 #include "thread.h"
