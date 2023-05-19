@@ -61,23 +61,3 @@ Writer`s in... writing...<br/>
 Finished writing... shared = 5<br/>
 <br/>
 
-Scenario starts rwrwrw <br/>
-Created reader<br/>
-Reade`s in... reading...<br/>
-Created writer<br/>
-Created writer<br/>
-Created reader<br/>
-Created writer<br/>
-Created reader<br/>
-Finished reading... shared = 0<br/>
-Writers in... writing...<br/>
-Finished writing... shared = 1<br/>
-Writer`s in... writing...<br/>
-Finished writing... shared = 2<br/>
-Reader`s in... reading...<br/>
-Finished reading... shared = 2<br/>
-Writer`s in... writing...<br/>
-Finished writing... shared = 3<br/>
-Reader`s in... reading...<br/>
-Finished reading... shared = 3<br/>
-<br/>
