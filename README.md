@@ -1,3 +1,9 @@
+
+# Reader and Writer Problem
+The program implements a readers/writers problem using semaphores that do not starve readers or writers.
+This problem is a classic concurrency problem in OS with multiple processes that need to be able to access a shared resource.
+_______
+
 To compile the program: <br/>
 using this command:  $ gcc -o readerwriter  readerwriter.c  -lpthread <br/>
 <br/>
